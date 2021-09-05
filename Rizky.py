@@ -74,7 +74,7 @@ def logo():
        \033[1;95m COLLAY | \033[1;96m MULTI | \033[1;91m BRUTE | \033[1;93m FORCE    
                                  
                                                 
-│    \033[1;93mMy Name \033[1;92m: \033[1;96 Mohammad Rizky Aprillianza│
+│    \033[1;93mMy Name \033[1;92m: \033[1;96 Rizky Mojosari│
 └────────────────────────────────────────────────────────┘""""")
 id = []
 cp = []
